@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
 }
+
 nav img {
     width: 100%;
 }
@@ -13,6 +14,7 @@ body {
 section {
     margin: 20px;
 }
+
 #ocultar {
     width: 370px;
     background-color: #147aa6;
@@ -20,12 +22,13 @@ section {
     font-size: 14px;
     color: #fff;
     padding: 20px;
-    
 }
 
 #ocultar:focus{
     background-color: #0e6990;
+
 }
+
 form {
     width: 400px;
     background-color: #e8e8eb;
