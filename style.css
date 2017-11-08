@@ -13,16 +13,17 @@ body {
 section {
     margin: 20px;
 }
-#añadir {
+#ocultar {
     width: 370px;
     background-color: #147aa6;
     border: none;
     font-size: 14px;
     color: #fff;
     padding: 20px;
+    
 }
 
-#añadir:focus{
+#ocultar:focus{
     background-color: #0e6990;
 }
 form {
@@ -30,6 +31,7 @@ form {
     background-color: #e8e8eb;
     margin: 0px;
     padding: 5px;
+    display: none;
 }
 
 #formulario {
