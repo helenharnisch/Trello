@@ -85,7 +85,7 @@ function mostrar(){
     btnNuevaLista.addEventListener("click", agregarLista);
     // Posicionar izquierda formulario
     btnNuevaLista.addEventListener("click", floatLeft);
-    // Cerrar formulario
+    // Cerrar el formulario
     btnCerrar.addEventListener("click", cerrarFormulario);
     // llamar textarea
     btnLista.addEventListener("click", textarea);
